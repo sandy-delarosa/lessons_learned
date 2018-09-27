@@ -1,4 +1,4 @@
-### Things I Have Learned at Block.io
+### Things I Have Learned at Bloc.io
 
 1. HTML
 2. CSS
